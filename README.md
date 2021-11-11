@@ -1,1 +1,0 @@
-# linear-regression-for-USA-house-prediction
